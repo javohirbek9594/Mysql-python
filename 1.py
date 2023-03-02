@@ -1,8 +1,3 @@
-print('hello world')
-print('Farrux')
-print('Xojimurod = daraxt')
-print('Samandar')
-print('Akromjon')
 print('Ziyo')
 print('Ziyo')
 print('Ziyo')
