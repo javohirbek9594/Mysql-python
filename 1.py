@@ -1,7 +1,0 @@
-print('Ziyo')
-print('Ziyo')
-print('Ziyo')
-print('Ziyo')
-print('Ziyo')
-print('Ziyo')
-print('Ziyo')
